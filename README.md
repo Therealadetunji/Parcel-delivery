@@ -111,6 +111,11 @@ Run rails db:migrate
 Lastly,
 Run rails s
 
+The API Endpoints- 
+  http://127.0.0.1:3000/api/v1/parcels
+  http://127.0.0.1:3000/api/v2/recipients
+  http://127.0.0.1:3000/api/v3/users(sender)
+
 <!-- AUTHORS -->
 
 > Mention all of the collaborators of this project.
